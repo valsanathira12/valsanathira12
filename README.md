@@ -2,7 +2,7 @@
 )
 
 <h3 align="center">This is Athira Valsan.I am a Data Science enthusiast, who believes that the power of data will revolutionize the world.</h3>
-<img aligh="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img aligh="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valsanathira12&label=Profile%20views&color=0e75b6&style=flat" alt="valsanathira12" /> </p>
 
