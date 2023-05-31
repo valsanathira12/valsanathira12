@@ -1,5 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1691020800&v=beta&t=H_DCrQa7PnPcLESMmvkq7WL1PPNqV_ShUE6MQFATdT0
-)]
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1691020800&v=beta&t=H_DCrQa7PnPcLESMmvkq7WL1PPNqV_ShUE6MQFATdT0
+)
 
 <h3 align="center">This is Athira Valsan.I am a Data Science enthusiast, who believes that the power of data will revolutionize the world.</h3>
 <img aligh="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
