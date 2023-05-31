@@ -1,14 +1,14 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1691020800&v=beta&t=H_DCrQa7PnPcLESMmvkq7WL1PPNqV_ShUE6MQFATdT0
 )
 
-<h3 align="center">This is Athira Valsan.I am a Data Science enthusiast, who believes that the power of data will revolutionize the world.</h3>
+<h3 align="center">** This is Athira Valsan.I am a Data Science enthusiast, who believes that the power of data will revolutionize the world**.</h3>
 
 
 <img aligh="center" alt="Coding" width="200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valsanathira12&label=Profile%20views&color=0e75b6&style=flat" alt="valsanathira12" /> </p>
 
-- 🌱 I’m currently learning **Advance Python, SQL,Machine Learning,Tableau ,Advance Excel.**
+- 🌱 I’m currently learning **Advance Python, SQL, Machine Learning, Tableau, Advance Excel.**
 
 - 👨‍💻 All of my works are available at [https://github.com/valsanathira12](https://github.com/valsanathira12)
 
